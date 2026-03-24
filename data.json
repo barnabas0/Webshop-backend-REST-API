@@ -1,0 +1,103 @@
+{
+    "Users": [
+        {
+            "id": 1,
+            "name": "Bananos Joe",
+            "email": "bjoe@redneckcity.com"
+        },
+        {
+            "id": 2,
+            "name": "Almas Anna",
+            "email": "anna@fruitworld.com"
+        },
+        {
+            "id": 3,
+            "name": "Kurtos Karoly",
+            "email": "karoly@pearparadise.com"
+        },
+        {
+            "id": 4,
+            "name": "Szilvas Szabolcs",
+            "email": "szabolcs@plumworld.com"
+        },
+        {
+            "id": 6,
+            "name": "stringst",
+            "email": "user@example.com"
+        }
+    ],
+    "Baskets": [
+        {
+            "id": 101,
+            "user_id": 1,
+            "items": [
+                {
+                    "item_id": 201,
+                    "name": "Alma",
+                    "brand": "Jonatan",
+                    "price": 9.99,
+                    "quantity": 2
+                },
+                {
+                    "item_id": 202,
+                    "name": "Korte",
+                    "brand": "Vilmos",
+                    "price": 12.49,
+                    "quantity": 1
+                },
+                {
+                    "item_id": 1,
+                    "name": "string",
+                    "brand": "string",
+                    "price": 1.0,
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "user_id": 2,
+            "items": [
+                {
+                    "item_id": 203,
+                    "name": "Banan",
+                    "brand": "Chiquita",
+                    "price": 5.99,
+                    "quantity": 6
+                },
+                {
+                    "item_id": 204,
+                    "name": "Narancs",
+                    "brand": "Valencia",
+                    "price": 8.49,
+                    "quantity": 3
+                },
+                {
+                    "item_id": 205,
+                    "name": "Szilva",
+                    "brand": "Stanley",
+                    "price": 7.99,
+                    "quantity": 3
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "user_id": 3,
+            "items": []
+        },
+        {
+            "id": 104,
+            "user_id": 6,
+            "items": [
+                {
+                    "item_id": 1,
+                    "name": "string",
+                    "brand": "abcdef",
+                    "price": 1.0,
+                    "quantity": 1
+                }
+            ]
+        }
+    ]
+}
